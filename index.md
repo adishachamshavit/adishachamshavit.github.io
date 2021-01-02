@@ -23,8 +23,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Contact
+### Contact me
 
 [Twitter] (@adishsh)
+
 [LinkedIn](https://www.linkedin.com/in/adi-shacham-shavit/)
+
 [Email] (adi.shacham.shavit@gmail.com)
