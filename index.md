@@ -2,6 +2,6 @@
 
 ### Contact me
 
-[Twitter] (https://www.twitter.com/adishsh/)
+[Twitter](https://www.twitter.com/adishsh/)
 
 [LinkedIn](https://www.linkedin.com/in/adi-shacham-shavit/)
